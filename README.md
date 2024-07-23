@@ -20,8 +20,7 @@ A simple To-Do List application built using TypeScript, Tailwind, React, and Sha
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/T3_TODO_Web.git
-cd ./T3_TODO_Web
+git clone https://github.com/adndax/Simple-To-Do-List
 ```
 
 Install dependencies:
